@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\bin\Debug\net6.0\Week6AndOrlogicalOperation.exe
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\bin\Debug\net6.0\Week6AndOrlogicalOperation.deps.json
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\bin\Debug\net6.0\Week6AndOrlogicalOperation.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\bin\Debug\net6.0\Week6AndOrlogicalOperation.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\bin\Debug\net6.0\ref\Week6AndOrlogicalOperation.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\bin\Debug\net6.0\Week6AndOrlogicalOperation.pdb
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\ref\Week6AndOrlogicalOperation.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.pdb
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\Week6AndOrlogicalOperation\obj\Debug\net6.0\Week6AndOrlogicalOperation.genruntimeconfig.cache

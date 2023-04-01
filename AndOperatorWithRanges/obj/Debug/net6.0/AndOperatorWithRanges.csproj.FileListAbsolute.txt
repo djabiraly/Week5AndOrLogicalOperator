@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.exe
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.deps.json
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\bin\Debug\net6.0\ref\AndOperatorWithRanges.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.pdb
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\ref\AndOperatorWithRanges.dll
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.pdb
+C:\Users\BENAHMAD\source\repos\Week6AndOrlogicalOperation\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.genruntimeconfig.cache
